@@ -8,6 +8,9 @@ The GitHub actions script to deploy the Storybook to QA requires some configurat
 
 If these repos are not yet setup, see the setup steps in [`docs/storybook.md`](docs/storybook.md).
 
+codecov Badge:
+[![codecov](https://codecov.io/gh/ucsb-cs156-f22/jpa03-mariekarpinska/branch/main/graph/badge.svg?token=2XOGC14TGF)](https://codecov.io/gh/ucsb-cs156-f22/jpa03-mariekarpinska)
+
 # Setup before running application
 
 Before running the application for the first time,
@@ -60,6 +63,8 @@ If you get the following message on Heroku, it probably means that you failed to
 ```
 Failed to connect to the frontend server... On Heroku, be sure that PRODUCTION is defined.  On localhost, open a second terminal window, cd into frontend and type: npm install; npm start";
 ```
+
+!ask urself - you left off here
 
 # Accessing swagger
 

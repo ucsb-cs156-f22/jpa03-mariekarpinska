@@ -40,6 +40,7 @@ Each of these three steps is explained in more detail below.
    * For name, choose something you will remember; I suggest using the name of your repo, or the name of the Heroku application
    * Scroll down to the part of the page that says: `Authorized redirect URIs`
 
+!ask here 
 3. Under `Authorized redirect URIs`, you'll need to click the `+ ADD URI` button twice to enter two addresses:
 
    * For localhost, enter: `http://localhost:8080/login/oauth2/code/google`
